@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;22;49;67;81;92,
+records,records/items/swampmod/crafting/swampmod/recipe_dyntable_randomspear_5.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_randomspear_25.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_randomspear_52.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_randomspear_70.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_randomspear_84.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_randomspear_94.dbr,

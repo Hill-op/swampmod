@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;20;40;60;80;99,
+records,records/skills/swampmod_backend/loot/tdyn_thread_lv01.dbr;records/skills/swampmod_backend/loot/tdyn_thread_lv20.dbr;records/skills/swampmod_backend/loot/tdyn_thread_lv40.dbr;records/skills/swampmod_backend/loot/tdyn_thread_lv60.dbr;records/skills/swampmod_backend/loot/tdyn_thread_lv80.dbr;records/skills/swampmod_backend/loot/tdyn_thread_lv99.dbr,

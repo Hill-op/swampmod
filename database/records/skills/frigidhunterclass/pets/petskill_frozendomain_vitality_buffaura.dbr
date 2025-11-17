@@ -1,0 +1,6 @@
+templateName,database/templates/skill_buffradiustoggled.tpl,
+ActorName,,
+Class,Skill_BuffRadiusToggled,
+FileDescription,,
+instantCast,1,
+buffSkillName,records/skills/frigidhunterclass/pets/petskill_frozendomain_vitality_buffaura_buff.dbr,

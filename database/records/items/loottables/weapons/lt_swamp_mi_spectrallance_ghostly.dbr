@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1,
+records,records/items/loottables/weapons/tdyn_swamp_mi_spectrallance_ghostly.dbr,

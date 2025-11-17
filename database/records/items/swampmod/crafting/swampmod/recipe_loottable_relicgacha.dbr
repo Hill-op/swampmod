@@ -1,0 +1,6 @@
+templateName,database/templates/leveltable.tpl,
+ActorName,,
+Class,LevelTable,
+FileDescription,,
+levels,1;30;55,
+records,records/items/swampmod/crafting/swampmod/recipe_dyntable_relicgacha_low.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_relicgacha_med.dbr;records/items/swampmod/crafting/swampmod/recipe_dyntable_relicgacha_high.dbr,

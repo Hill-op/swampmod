@@ -1,0 +1,6 @@
+templateName,database/templates/skill_attackprojectiledebuf.tpl,
+ActorName,,
+Class,Skill_AttackProjectileDebuf,
+FileDescription,,
+buffSkillName,records/skills/swampdwellerclass/dreadgaze1b_autocast_buff.dbr,
+projectileNames,records/fx/swampdwellerclass/sharpvine2_projectilefx01.dbr,

@@ -1,0 +1,4 @@
+levels,1;6;50;85,
+Class,LevelTable,
+templateName,database/templates/leveltable.tpl,
+records,records/items/loottables/weapons/tdyn_axe1h_a01.dbr;records/items/loottables/weapons/tdyn_axe1h_c01.dbr;records/items/loottables/weapons/tdyn_axe1h_d01.dbr;records/items/loottables/weapons/tdyn_axe1h_d101_craft.dbr,
